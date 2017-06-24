@@ -56,9 +56,7 @@ was ported for this implementation so there is not much to say here.
 
 Running the Code:
 First you must compile the code running make using the included Makefile. This code is then
-run using command line arguments. In class, Professor Tjang seemed to have disagreements
-with Professor Franscisco on how the code should be run. He ultimately said that it could be run
-as such if we chose to do so:
+run using command line arguments:
 ./compressR_LOLS Text.txt 5 (Only an example)
 ./compressT_LOLS Text.txt 5 (Only an example)
 This is how the code should be run on the command line and how it will output desired results.
